@@ -160,6 +160,8 @@ To connect to the VPN:
 
 (Optional feature) You can choose to enable [VPN On Demand](https://developer.apple.com/documentation/networkextension/personal_vpn/vpn_on_demand_rules). This is an "always-on" feature that can automatically connect to the VPN while on Wi-Fi. To enable, check the **Connect on demand** checkbox for the VPN connection, and click **Apply**.
 
+You can customize VPN On Demand rules to exclude certain Wi-Fi network(s) such as your home network. See [Guide: Customize IKEv2 VPN On Demand rules for macOS and iOS (supporters)](https://ko-fi.com/post/Guide-Customize-IKEv2-VPN-On-Demand-rules-for-mac-J3J4G5TY3).
+
 <details>
 <summary>
 If you manually set up IKEv2 without using the helper script, click here for instructions.
@@ -219,6 +221,8 @@ To connect to the VPN:
 1. Slide the **VPN** switch ON.
 
 (Optional feature) You can choose to enable [VPN On Demand](https://developer.apple.com/documentation/networkextension/personal_vpn/vpn_on_demand_rules). This is an "always-on" feature that can automatically connect to the VPN while on Wi-Fi. To enable, tap the "i" icon on the right of the VPN connection, and enable **Connect On Demand**.
+
+You can customize VPN On Demand rules to exclude certain Wi-Fi network(s) such as your home network, or to start the VPN connection both on Wi-Fi and cellular. See [Guide: Customize IKEv2 VPN On Demand rules for macOS and iOS (supporters)](https://ko-fi.com/post/Guide-Customize-IKEv2-VPN-On-Demand-rules-for-mac-J3J4G5TY3).
 
 <details>
 <summary>
