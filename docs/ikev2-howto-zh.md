@@ -32,7 +32,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 * [Linux](#linux)
 * [Mikrotik RouterOS](#routeros)
 
-喜欢这个项目？[:heart: 赞助](https://github.com/sponsors/hwdsl2?metadata_o=vz) 或 [:coffee: 支持](https://ko-fi.com/hwdsl2) 并访问 [仅限支持者的内容](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)。
+喜欢这个项目？[:sparkling_heart: 赞助](https://github.com/sponsors/hwdsl2?metadata_o=vz) 或 [:coffee: 支持](https://ko-fi.com/hwdsl2) 并访问 [额外内容](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)。
 <details>
 <summary>
 了解如何更改 IKEv2 服务器地址。
@@ -60,7 +60,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 
 #### 手动导入配置
 
-[[支持者] **屏幕录影：** 在 Windows 上手动导入 IKEv2 配置](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 在 Windows 上手动导入 IKEv2 配置](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 或者，**Windows 7, 8, 10 和 11** 用户可以手动导入 IKEv2 配置：
 
@@ -139,7 +139,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 
 ### OS X (macOS)
 
-[[支持者] **屏幕录影：** 在 macOS 上导入 IKEv2 配置并连接](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 在 macOS 上导入 IKEv2 配置并连接](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 首先，将生成的 `.mobileconfig` 文件安全地传送到你的 Mac，然后双击并按提示操作，以导入为 macOS 配置描述文件。如果你的 Mac 运行 macOS Big Sur 或更新版本，打开系统偏好设置并转到描述文件部分以完成导入。在完成之后，检查并确保 "IKEv2 VPN" 显示在系统偏好设置 -> 描述文件中。
 
@@ -150,7 +150,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 1. 选中 **在菜单栏中显示 VPN 状态** 复选框。
 1. 单击 **连接**。
 
-（可选功能）启用 **VPN On Demand（按需连接）** 以在你的 Mac 连接到 Wi-Fi 时自动启动 VPN 连接。要启用它，选中 VPN 连接的 **按需连接** 复选框，然后单击 **应用**。你可以自定义按需连接规则，以排除某些 Wi-Fi 网络（例如你的家庭网络）。参见 [[支持者] **指南：** 为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+（可选功能）启用 **VPN On Demand（按需连接）** 以在你的 Mac 连接到 Wi-Fi 时自动启动 VPN 连接。要启用它，选中 VPN 连接的 **按需连接** 复选框，然后单击 **应用**。你可以自定义按需连接规则，以排除某些 Wi-Fi 网络（例如你的家庭网络）。参见 [:book: 电子书：搭建自己的 IPsec VPN, OpenVPN 和 WireGuard 服务器](https://hwdsl2.gumroad.com/l/vpnzh/SETUPVPN) 中的 **指南：** 为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则。
 
 <details>
 <summary>
@@ -195,7 +195,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 
 ### iOS
 
-[[支持者] **屏幕录影：** 在 iOS (iPhone & iPad) 上导入 IKEv2 配置并连接](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 在 iOS (iPhone & iPad) 上导入 IKEv2 配置并连接](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 首先，将生成的 `.mobileconfig` 文件安全地传送到你的 iOS 设备，并且导入为 iOS 配置描述文件。要传送文件，你可以使用：
 
@@ -210,7 +210,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 1. 进入设置 -> VPN。选择与 `你的 VPN 服务器 IP`（或者域名）对应的 VPN 连接。
 1. 启用 **VPN** 连接。
 
-（可选功能）启用 **VPN On Demand（按需连接）** 以在你的 iOS 设备连接到 Wi-Fi 时自动启动 VPN 连接。要启用它，单击 VPN 连接右边的 "i" 图标，然后启用 **按需连接**。你可以自定义按需连接规则，以排除某些 Wi-Fi 网络（例如你的家庭网络），或者在 Wi-Fi 和蜂窝网络上都启动 VPN 连接。参见 [[支持者] **指南：** 为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+（可选功能）启用 **VPN On Demand（按需连接）** 以在你的 iOS 设备连接到 Wi-Fi 时自动启动 VPN 连接。要启用它，单击 VPN 连接右边的 "i" 图标，然后启用 **按需连接**。你可以自定义按需连接规则，以排除某些 Wi-Fi 网络（例如你的家庭网络），或者在 Wi-Fi 和蜂窝网络上都启动 VPN 连接。参见 [:book: 电子书：搭建自己的 IPsec VPN, OpenVPN 和 WireGuard 服务器](https://hwdsl2.gumroad.com/l/vpnzh/SETUPVPN) 中的 **指南：** 为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则。
 
 <details>
 <summary>
@@ -255,7 +255,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 
 ### Android
 
-[[支持者] **屏幕录影：** 使用 Android strongSwan VPN 客户端连接](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 使用 Android strongSwan VPN 客户端连接](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 1. 将生成的 `.sswan` 文件安全地传送到你的 Android 设备。
 1. 从 [**Google Play**](https://play.google.com/store/apps/details?id=org.strongswan.android)，[**F-Droid**](https://f-droid.org/en/packages/org.strongswan.android/) 或 [**strongSwan 下载网站**](https://download.strongswan.org/Android/)下载并安装 strongSwan VPN 客户端。
@@ -273,7 +273,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 或者，Android 11+ 用户也可以使用系统自带的 IKEv2 客户端连接。
 </summary>
 
-[[支持者] **屏幕录影：** 使用 Android 11+ 系统自带的 VPN 客户端连接](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 使用 Android 11+ 系统自带的 VPN 客户端连接](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 1. 将生成的 `.p12` 文件安全地传送到你的 Android 设备。
 1. 启动 **设置** App。
