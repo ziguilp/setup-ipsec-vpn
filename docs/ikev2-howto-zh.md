@@ -32,15 +32,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 * [Linux](#linux)
 * [Mikrotik RouterOS](#routeros)
 
-<details>
-<summary>
-如果你喜欢这个项目，可以表达你的支持或感谢。
-</summary>
-
-<a href="https://ko-fi.com/hwdsl2" target="_blank"><img height="36" width="187" src="images/kofi2.png" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a> &nbsp;&nbsp;<a href="https://coindrop.to/hwdsl2" target="_blank"><img src="images/embed-button.png" height="36" width="145" border="0" alt="Coindrop.to me" /></a>
-
-仅限支持者的内容可用。[点击查看详情](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)。
-</details>
+喜欢这个项目？[:sparkling_heart: 赞助](https://github.com/sponsors/hwdsl2?metadata_o=vz) 或 [:coffee: 支持](https://ko-fi.com/hwdsl2) 并访问 [额外内容](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)。
 <details>
 <summary>
 了解如何更改 IKEv2 服务器地址。
@@ -68,7 +60,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 
 #### 手动导入配置
 
-[**屏幕录影：** 在 Windows 上手动导入 IKEv2 配置（支持者）](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 在 Windows 上手动导入 IKEv2 配置](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 或者，**Windows 7, 8, 10 和 11** 用户可以手动导入 IKEv2 配置：
 
@@ -147,7 +139,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 
 ### OS X (macOS)
 
-[**屏幕录影：** 在 macOS 上导入 IKEv2 配置并连接（支持者）](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 在 macOS 上导入 IKEv2 配置并连接](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 首先，将生成的 `.mobileconfig` 文件安全地传送到你的 Mac，然后双击并按提示操作，以导入为 macOS 配置描述文件。如果你的 Mac 运行 macOS Big Sur 或更新版本，打开系统偏好设置并转到描述文件部分以完成导入。在完成之后，检查并确保 "IKEv2 VPN" 显示在系统偏好设置 -> 描述文件中。
 
@@ -158,9 +150,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 1. 选中 **在菜单栏中显示 VPN 状态** 复选框。
 1. 单击 **连接**。
 
-（可选功能）启用 **VPN On Demand（按需连接）** 以在你的 Mac 连接到 Wi-Fi 时自动启动 VPN 连接。要启用它，选中 VPN 连接的 **按需连接** 复选框，然后单击 **应用**。你可以自定义按需连接规则，以排除某些 Wi-Fi 网络（例如你的家庭网络）。参见：
-
-[**指南：** 为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则（支持者）](https://ko-fi.com/post/Guide-Customize-IKEv2-VPN-On-Demand-rules-for-mac-H2H7G61WH)
+（可选功能）启用 **VPN On Demand（按需连接）** 以在你的 Mac 连接到 Wi-Fi 时自动启动 VPN 连接。要启用它，选中 VPN 连接的 **按需连接** 复选框，然后单击 **应用**。你可以自定义按需连接规则，以排除某些 Wi-Fi 网络（例如你的家庭网络）。参见 [:book: 电子书：搭建自己的 IPsec VPN, OpenVPN 和 WireGuard 服务器](https://hwdsl2.gumroad.com/l/vpnzh/SETUPVPN) 中的 **指南：** 为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则。
 
 你可以自定义 VPN On Demand 规则以排除某些 Wi-Fi 网络（例如你的家庭网络）。参见 [指南：为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则（支持者）](https://ko-fi.com/post/Guide-Customize-IKEv2-VPN-On-Demand-rules-for-mac-H2H7G61WH)。
 
@@ -207,7 +197,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 
 ### iOS
 
-[**屏幕录影：** 在 iOS (iPhone & iPad) 上导入 IKEv2 配置并连接（支持者）](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 在 iOS (iPhone & iPad) 上导入 IKEv2 配置并连接](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 首先，将生成的 `.mobileconfig` 文件安全地传送到你的 iOS 设备，并且导入为 iOS 配置描述文件。要传送文件，你可以使用：
 
@@ -222,9 +212,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 1. 进入设置 -> VPN。选择与 `你的 VPN 服务器 IP`（或者域名）对应的 VPN 连接。
 1. 启用 **VPN** 连接。
 
-（可选功能）启用 **VPN On Demand（按需连接）** 以在你的 iOS 设备连接到 Wi-Fi 时自动启动 VPN 连接。要启用它，单击 VPN 连接右边的 "i" 图标，然后启用 **按需连接**。你可以自定义按需连接规则，以排除某些 Wi-Fi 网络（例如你的家庭网络），或者在 Wi-Fi 和蜂窝网络上都启动 VPN 连接。参见：
-
-[**指南：** 为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则（支持者）](https://ko-fi.com/post/Guide-Customize-IKEv2-VPN-On-Demand-rules-for-mac-H2H7G61WH)
+（可选功能）启用 **VPN On Demand（按需连接）** 以在你的 iOS 设备连接到 Wi-Fi 时自动启动 VPN 连接。要启用它，单击 VPN 连接右边的 "i" 图标，然后启用 **按需连接**。你可以自定义按需连接规则，以排除某些 Wi-Fi 网络（例如你的家庭网络），或者在 Wi-Fi 和蜂窝网络上都启动 VPN 连接。参见 [:book: 电子书：搭建自己的 IPsec VPN, OpenVPN 和 WireGuard 服务器](https://hwdsl2.gumroad.com/l/vpnzh/SETUPVPN) 中的 **指南：** 为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则。
 
 你可以自定义 VPN On Demand 规则以排除某些 Wi-Fi 网络（例如你的家庭网络），或者在 Wi-Fi 和蜂窝网络上都启动 VPN 连接。参见 [指南：为 macOS 和 iOS 自定义 IKEv2 VPN On Demand 规则（支持者）](https://ko-fi.com/post/Guide-Customize-IKEv2-VPN-On-Demand-rules-for-mac-H2H7G61WH)。
 
@@ -271,7 +259,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 
 ### Android
 
-[**屏幕录影：** 使用 Android strongSwan VPN 客户端连接（支持者）](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 使用 Android strongSwan VPN 客户端连接](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 1. 将生成的 `.sswan` 文件安全地传送到你的 Android 设备。
 1. 从 [**Google Play**](https://play.google.com/store/apps/details?id=org.strongswan.android)，[**F-Droid**](https://f-droid.org/en/packages/org.strongswan.android/) 或 [**strongSwan 下载网站**](https://download.strongswan.org/Android/)下载并安装 strongSwan VPN 客户端。
@@ -289,7 +277,7 @@ Libreswan 支持通过使用 RSA 签名算法的 X.509 Machine Certificates 来�
 或者，Android 11+ 用户也可以使用系统自带的 IKEv2 客户端连接。
 </summary>
 
-[**屏幕录影：** 使用 Android 11+ 系统自带的 VPN 客户端连接（支持者）](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-X8X5FVFZC)
+[**屏幕录影：** 使用 Android 11+ 系统自带的 VPN 客户端连接](https://hwdsl2.gumroad.com/l/ikev2videoszh/SETUPVPN)
 
 1. 将生成的 `.p12` 文件安全地传送到你的 Android 设备。
 1. 启动 **设置** App。
@@ -435,6 +423,8 @@ sudo yum --enablerepo=epel install NetworkManager-strongswan-gnome
 # 示例：提取 CA 证书，客户端证书和私钥。在完成后可以删除 .p12 文件。
 # 注：你可能需要输入 import password，它可以在 IKEv2 辅助脚本的输出中找到。
 #    如果在脚本的输出中没有 import password，请按回车键继续。
+# 注：如果使用 OpenSSL 3.x (运行 "openssl version" 进行检查)，
+#    请将 "-legacy" 附加到下面的 3 个命令。
 openssl pkcs12 -in vpnclient.p12 -cacerts -nokeys -out ca.cer
 openssl pkcs12 -in vpnclient.p12 -clcerts -nokeys -out client.cer
 openssl pkcs12 -in vpnclient.p12 -nocerts -nodes  -out client.key
@@ -552,6 +542,7 @@ sudo chmod 600 ca.cer client.cer client.key
 * [无法连接多个 IKEv2 客户端](#无法连接多个-ikev2-客户端)
 * [IKE 身份验证凭证不可接受](#ike-身份验证凭证不可接受)
 * [参数错误 policy match error](#参数错误-policy-match-error)
+* [参数错误 parameter is incorrect](#参数错误-parameter-is-incorrect)
 * [连接 IKEv2 后不能打开网站](#连接-ikev2-后不能打开网站)
 * [Windows 10 正在连接](#windows-10-正在连接)
 * [其它已知问题](#其它已知问题)
@@ -585,6 +576,10 @@ sudo ikev2.sh --addclient [client name]
 ```console
 REG ADD HKLM\SYSTEM\CurrentControlSet\Services\RasMan\Parameters /v NegotiateDH2048_AES256 /t REG_DWORD /d 0x1 /f
 ```
+
+### 参数错误 parameter is incorrect
+
+如果你在尝试使用 IKEv2 模式连接时遇到 "错误 87：参数错误 The parameter is incorrect"，请尝试 [这个 Issue](https://github.com/trailofbits/algo/issues/1051) 中的解决方案，更具体地说，第 2 步 "reset device manager adapters"。
 
 ### 连接 IKEv2 后不能打开网站
 

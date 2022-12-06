@@ -264,19 +264,11 @@ Get your computer or device to use the VPN. Please refer to:
 
 **[Configure IPsec/XAuth ("Cisco IPsec") VPN Clients](docs/clients-xauth.md)**
 
-**[Download PDF versions of VPN docs (supporters)](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-O5O7FVF8J)**
+**[:book: eBook: Set Up Your Own IPsec VPN, OpenVPN and WireGuard Server](https://hwdsl2.gumroad.com/l/vpnen/SETUPVPN)**
 
 Enjoy your very own VPN! :sparkles::tada::rocket::sparkles:
 
-<details>
-<summary>
-Like this project? You can show your support or appreciation.
-</summary>
-
-<a href="https://ko-fi.com/hwdsl2" target="_blank"><img height="36" width="187" src="docs/images/kofi2.png" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a> &nbsp;&nbsp;<a href="https://coindrop.to/hwdsl2" target="_blank"><img src="docs/images/embed-button.png" height="36" width="145" border="0" alt="Coindrop.to me" /></a>
-
-Supporter-only content is available. [Click to see details](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-O5O7FVF8J).
-</details>
+Like this project? [:sparkling_heart: Sponsor](https://github.com/sponsors/hwdsl2?metadata_o=i) or [:coffee: Support](https://ko-fi.com/hwdsl2) and access [extra content](https://ko-fi.com/post/Support-this-project-and-get-access-to-supporter-o-O5O7FVF8J).
 
 ## Important notes
 
